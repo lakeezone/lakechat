@@ -20,7 +20,7 @@ LakeChat is a basic chat application built with Python using the [Flet](https://
     ```bash
     python lakechat.py
     ```
-4. Open your browser at `http://localhost:8000` or the URL where you host it.
+4. Open your browser at `http://localhost:8080` or the URL where you host it.
 
 ## Customization
 
